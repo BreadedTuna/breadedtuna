@@ -85,12 +85,12 @@ A kind of questionable project from years ago, still entertaining.
 
 ## ⏱️ Minecraft Speedrunning
 I also compete in **Minecraft Bedrock speedruns** listed on speedrun.com.  
-Still pushing for faster times.
+I'm not the best, but atleast I'm on the leaderboard..tt
 
 ---
 
 ## 📺 YouTube
-I upload short chaotic clips, Dead Rails moments, speedruns, and game content.
+I upload Minecraft Bedrock speedruns, but I may expand to show some of my projects on there.
 
 **YouTube Channel:**  
 https://www.youtube.com/@BreadedTuna
@@ -117,4 +117,10 @@ If you’re into:
 
 …then you’re in the right place.
 
-Feel free to explore my projects, fork stuff, or follow along as I develop RM cars
+Feel free to explore my projects, try my games out, or follow along as I develop RM cars!
+
+---
+
+## 🙏 Special Thanks
+Huge thanks to **[jchabin](https://github.com/jchabin)** — the creator of the original online racing game that RM Cars was built from.  
+His project was an awesome foundation and a great piece of open-source work, and it inspired the entire direction of RM Cars.
