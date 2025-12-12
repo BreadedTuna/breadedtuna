@@ -16,7 +16,7 @@ An **online multiplayer racing game** built for the browser.
 ### 🛠️ Background  
 RM Cars started as a heavily-modded fork of **jchabin’s online racing game**(huge respect to jchabin), but over time I’ve:
 
-- Doubled the codebase  
+- quintupled the codebase (5x)  
 - Rewritten many core systems  
 - Added host tools & admin features  
 - Built new mechanics  
